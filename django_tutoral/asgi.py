@@ -1,3 +1,5 @@
+# wsgi보다 성능이 조금 더 improve, 비동기식 웹서버, 배포 진행
+
 """
 ASGI config for django_tutoral project.
 

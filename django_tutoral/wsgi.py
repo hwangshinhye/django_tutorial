@@ -1,3 +1,6 @@
+# 웹서버 게이트웨이 인터페이스
+# 배포시 사용
+
 """
 WSGI config for django_tutoral project.
 
