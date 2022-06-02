@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [ # local 최상단, 서드파티, 맨 하단에 장고 디폴트 앱
     'articles',
+    'foods',
 
     'django.contrib.admin',
     'django.contrib.auth',
